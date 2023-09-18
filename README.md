@@ -1,3 +1,3 @@
 # tyscriptINITIAL
 
-#Projeto inicial já configurado com Typescript.
+#Projeto inicial já configurado para Typescript.
