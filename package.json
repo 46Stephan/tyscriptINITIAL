@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node-dev --respawn --transpile-only -- ./src/index.ts"
+    "dev": "ts-node-dev --respawn --transpile-only ./src/01.ts",
+    "dev2": "ts-node-dev --respawn --transpile-only ./src/02.ts",
+    "dev3": "ts-node-dev --respawn --transpile-only ./src/03.ts",
+    "dev4": "ts-node-dev --respawn --transpile-only ./src/04.ts",
+    "dev5": "ts-node-dev --respawn --transpile-only ./src/05.ts",
+    "dev6": "ts-node-dev --respawn --transpile-only ./src/06.ts"
   },
   "keywords": [],
   "author": "",
